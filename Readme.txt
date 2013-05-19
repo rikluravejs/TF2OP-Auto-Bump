@@ -38,11 +38,12 @@
 
 > Instructions
 
-1. Download the files
+0. Download the files
+1. Make sure that you are logged in on Tf2outpost
 2. Launch the application
-3. Choose your preferred input type
+3. Choose your preferred input type (1 - file; 2 - manual)
      1.1. Make sure that you have a text file named Trades.txt in the same folder as 
-	   the TF2OP Auto Bump application file.
+	  the TF2OP Auto Bump application file.
      1.2. Copy-paste the trade links you want auto-bumped into Trades.txt (one per row).
      1.3. Press 1 to choose input from file (recommended).
 
